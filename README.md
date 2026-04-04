@@ -1,3 +1,3 @@
 # ProyectosAlfredo
 
-Dentro de Git-Proyectos crea una carpeta con tu nombre, apellido, agrega tu proyecto dentro y no toques nada más.
+Has un fork dentro de Kahoots pega tu excel y haz la pull request, nombra tu excel Nombre-Apellido. 
