@@ -1,1 +1,1 @@
-Crear una carpeta con tu nombre, apellido, dentro pon tu proyecto y no toques nada más.
+Dentro de Git-Proyectos crea una carpeta con tu nombre, apellido, agrega tu proyecto dentro y no toques nada más.
